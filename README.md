@@ -38,6 +38,6 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 
 ## Participantes
 
-* Kaito Hayashi
-* Gabriel Soares
 * Gabriel Akio Urakawa
+* Gabriel Soares
+* Kaito Hayashi
