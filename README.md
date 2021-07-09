@@ -22,7 +22,7 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 |[Capacitor Eletrolítico](https://www.dedcomponentes.com.br/products/capacitor-eletrolitico-100uf-x-400v?variant=31945821716534)|  uF 400V | 1 | R$ 4,40 |
 |[Resistor](https://www.baudaeletronica.com.br/resistor-10k-5-1w.html)|10K| 2 | R$ 0,38 |
 |[Resistor](https://www.baudaeletronica.com.br/resistor-2k0-1-2w.html)|2K| 1/2W | R$ 0,14 |
-|[Potenciômetro Linear](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)| 5K |R$ 1,70   |
+|[Potenciômetro Linear](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)| 5K |1   | R$ 1,70|
 |[Regulador de tensão ajustável](https://www.baudaeletronica.com.br/regulador-de-tensao-ajustavel-lm317t.html)| LM317T | 1 |R$ 1,99 |
 |[Diodo Zener 1N5350B](https://www.baudaeletronica.com.br/diodo-zener-1n5350b-13v-5w.html) | 13V / 5W |  2  | R$ 2,98 |
 
