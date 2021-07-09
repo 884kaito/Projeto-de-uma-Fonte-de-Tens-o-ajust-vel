@@ -16,10 +16,10 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 ## Componentes
 
 | Componente | Especificações/tipo | Quantidade | Valor |
-| :--- | :--- | :--- | :--- |
-|         |  		 |  |   R$   |
-|         |  		 |  |   R$   |
-|         |  		 |  |   R$   |
+| :---       | :---                | :---       | :---  |
+|[Diodo Zener 1N5350B](https://www.baudaeletronica.com.br/diodo-zener-1n5350b-13v-5w.html) | 13V / 5W |  2  | R$ 2,98 |
+|[Borne 2 polos KF-301](https://www.baudaeletronica.com.br/borne-2-polos-kf-301-2t.html) | 2T | 2 | R$ 1,23 |
+|[Ponte Retificadora KBPC1010](https://www.baudaeletronica.com.br/ponte-retificadora-kbpc1010.html)|  		 | 1 |R$ 3,88  |
 |         |  		 |  |   R$   |
 |         |  		 |  |   R$   |
 |         |  		 |  |   R$   |
