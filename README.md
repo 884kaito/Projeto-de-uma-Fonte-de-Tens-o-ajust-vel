@@ -31,6 +31,7 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 
 
 ## PCB no Eagle
+![image_2021-06-23_01-40-55](https://user-images.githubusercontent.com/85563071/125117136-2130f300-e0c4-11eb-8e64-bd4404f9204c.png)
 
 
 ## Vídeo de explicação do circuito
