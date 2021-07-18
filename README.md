@@ -13,6 +13,10 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 [Link para ver o vídeo de simulação no Multisim](https://www.youtube.com/watch?v=hH9-omED2Nc&feature=youtu.be)
 
 
+## Vídeo de simulação do circuito
+[Link para ver o vídeo de simulação](https://www.youtube.com/watch?v=urgXzslx0zo&feature=youtu.be)
+
+
 ## Componentes
 
 | Componente | Especificações/tipo | Quantidade | Valor |
@@ -33,10 +37,8 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 ## PCB no Eagle
 ![photo_2021-07-18_10-42-16](https://user-images.githubusercontent.com/85563071/126069445-e425f2dd-9866-484e-851d-d6570c71ac71.jpg)
 
-
-
 ## Vídeo de explicação do circuito
-[Vídeo de simulação](https://www.youtube.com/watch?v=urgXzslx0zo&feature=youtu.be)
+
 
 ## Participantes
 
