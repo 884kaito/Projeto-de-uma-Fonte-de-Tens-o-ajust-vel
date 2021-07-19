@@ -25,7 +25,7 @@ Aqui virá o foto do circuito do Multisim
 |Resistor | CR25 680R | 1 |R$ 0,07 |
 |Resistor | CR25 1k | 1 | R$ 0,07 |
 |Potenciômetro | 1W B5k | 1 | R$ 6,60 |
-|Capacitor eletrolítico | 3300uf 50V | 1 | R$ 4,34 |
+|Capacitor eletrolítico | 3300uF 50V | 1 | R$ 4,34 |
 |Ponte retificadora | PBPC1010 | 1 | R$ 3,88|
 |Trafo | 5K VA | 1 |R$ 75,00 |
 |Regulador de Tensão | LM317 | 1 | R$ 4,07 |
