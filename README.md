@@ -30,6 +30,7 @@ Aqui virá o foto do circuito do Multisim
 |Trafo | 5K VA | 1 |R$ 75,00 |
 |Regulador de Tensão | LM317 | 1 | R$ 4,07 |
 
+OBS: esses são componentes do circuito físico mostrado no vídeo anterior 
 
 ## Esquemático no Eagle
 ![image_2021-07-18_12-28-28](https://user-images.githubusercontent.com/85563071/126194495-a5b3342c-c700-4706-84f0-d3673c7544c9.png)
