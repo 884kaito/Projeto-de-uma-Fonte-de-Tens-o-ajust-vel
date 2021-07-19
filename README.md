@@ -8,7 +8,7 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 
 ## Simulação no Multisim
 
-![2021-06-23 08_00_14-https___www falstad com_circuit_circuitjs html_ctz=CQAgjCAMB0l3BWcBOaAOAbAdgCwCY](https://user-images.githubusercontent.com/85563071/123088215-d8a6e380-d3fb-11eb-8781-1dbd8bdad290.png)
+
 
 [Link para ver o vídeo de simulação no Multisim](https://www.youtube.com/watch?v=hH9-omED2Nc&feature=youtu.be)
 
@@ -32,10 +32,10 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 
 
 ## Esquemático no Eagle
-![Esquema da Fonte](https://user-images.githubusercontent.com/85563071/126069400-ca83aca1-beef-47ec-bb4e-cf666e5b1154.png)
+![image_2021-07-18_12-28-28](https://user-images.githubusercontent.com/85563071/126194495-a5b3342c-c700-4706-84f0-d3673c7544c9.png)
 
 ## PCB no Eagle
-![photo_2021-07-18_10-42-16](https://user-images.githubusercontent.com/85563071/126069445-e425f2dd-9866-484e-851d-d6570c71ac71.jpg)
+![image_2021-07-18_13-11-11](https://user-images.githubusercontent.com/85563071/126194440-f11ae915-9c5e-40aa-a939-c28cc46d8060.png)
 
 ## Vídeo de explicação do circuito
 
