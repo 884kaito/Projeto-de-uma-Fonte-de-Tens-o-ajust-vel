@@ -21,14 +21,14 @@ Aqui virá o foto do circuito do Multisim
 
 | Componente | Especificações/tipo | Quantidade | Valor |
 | :---       | :---                | :---       | :---  |
-|[Borne 2 polos KF-301](https://www.baudaeletronica.com.br/borne-2-polos-kf-301-2t.html) | 2T | 2 | R$ 2,46 |
-|[Ponte Retificadora KBPC1010](https://www.baudaeletronica.com.br/ponte-retificadora-kbpc1010.html)|1000V / 10A | 1 |R$ 3,88 |
-|[Capacitor Eletrolítico](https://www.dedcomponentes.com.br/products/capacitor-eletrolitico-100uf-x-400v?variant=31945821716534)|  uF 400V | 1 | R$ 4,40 |
-|[Resistor](https://www.baudaeletronica.com.br/resistor-10k-5-1w.html)|10K| 2 | R$ 0,38 |
-|[Resistor](https://www.baudaeletronica.com.br/resistor-2k0-1-2w.html)|2K / 1/2W| 1 | R$ 0,14 |
-|[Potenciômetro Linear](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)| 5K |1   | R$ 1,70|
-|[Regulador de tensão ajustável](https://www.baudaeletronica.com.br/regulador-de-tensao-ajustavel-lm317t.html)| LM317T | 1 |R$ 1,99 |
-|[Diodo Zener 1N5350B](https://www.baudaeletronica.com.br/diodo-zener-1n5350b-13v-5w.html) | 13V / 5W |  2  | R$ 2,98 |
+|Diodo Zener | 11V 1W 1N4741 | 1 | R$ 0,48 |
+|Resistor | CR25 680R | 1 |R$ 0,07 |
+|Resistor | CR25 1k | 1 | R$ 0,07 |
+|Potenciômetro | 1W B5k | 1 | R$ 6,60 |
+|Capacitor eletrolítico | 3300uf 50V | 1 | R$ 4,34 |
+|Ponte retificadora | PBPC1010 | 1 | R$ 3,88|
+|Trafo | 5K VA | 1 |R$ 75,00 |
+|Regulador de Tensão | LM317 | 1 | R$ 4,07 |
 
 
 ## Esquemático no Eagle
