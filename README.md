@@ -13,7 +13,7 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 100m
 [Link para ver o vídeo de simulação no Multisim](https://www.youtube.com/watch?v=hH9-omED2Nc&feature=youtu.be)
 
 
-## Vídeo de simulação do circuito
+## Vídeo de simulação do circuito físico
 [Link para ver o vídeo de simulação](https://www.youtube.com/watch?v=urgXzslx0zo&feature=youtu.be)
 
 
