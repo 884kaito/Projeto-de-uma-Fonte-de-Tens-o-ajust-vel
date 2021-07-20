@@ -27,7 +27,7 @@ Aqui virá o foto do circuito do Multisim
 |Potenciômetro | 1W B5k | 1 | R$ 6,60 |
 |Capacitor eletrolítico | 3300uF 50V | 1 | R$ 4,34 |
 |Ponte retificadora | PBPC1010 | 1 | R$ 3,88|
-|Trafo | 5K VA | 1 |R$ 75,00 |
+|Trafo | 5A - 24V | 1 |R$ 75,00 |
 |Regulador de Tensão | LM317 | 1 | R$ 4,07 |
 
 OBS: esses são componentes do circuito físico mostrado no vídeo anterior 
