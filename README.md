@@ -40,7 +40,7 @@ OBS: esses são componentes do circuito físico mostrado no vídeo anterior
 
 ## Vídeo de explicação do circuito
 
-Aqui virá o vídeo de explicação
+https://www.youtube.com/watch?v=xYSglO87Wwo
 
 ## Participantes
 
