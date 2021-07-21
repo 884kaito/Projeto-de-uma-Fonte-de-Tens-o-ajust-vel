@@ -12,6 +12,12 @@ Projeto de uma fonte de tensão ajustável entre 3V a 12V com capacidade de 1A p
 
 [Link para ver o vídeo de simulação no Multisim](https://www.youtube.com/watch?v=hH9-omED2Nc&feature=youtu.be)
 
+## Cálculo dos componentes
+![1](https://user-images.githubusercontent.com/85563071/126530046-7eec0094-8f51-430f-9108-d6121e78cfbc.jpg)
+![2](https://user-images.githubusercontent.com/85563071/126530083-48f56bb9-3864-4bc4-aa0f-84a11bde238e.jpg)
+![3](https://user-images.githubusercontent.com/85563071/126530150-450fab22-a0a4-4425-9275-5b60c1c2925e.jpg)
+![4](https://user-images.githubusercontent.com/85563071/126530173-e72ee146-679b-4dd3-a11e-286952dec0f4.jpg)
+![5](https://user-images.githubusercontent.com/85563071/126530193-aeec33c9-9d6f-4158-b0d0-ffe704fde5b1.jpg)
 
 ## Vídeo de simulação do circuito físico
 [Link para ver o vídeo de simulação](https://www.youtube.com/watch?v=urgXzslx0zo&feature=youtu.be)
