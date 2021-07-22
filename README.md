@@ -49,7 +49,7 @@ OBS: esses são componentes do circuito físico mostrado no vídeo anterior
 
 ## Vídeo de explicação do circuito
 
-[Link para ver o vídeo de explicação do circuito](https://www.youtube.com/watch?v=xYSglO87Wwo)
+[Link para ver o vídeo de explicação do circuito](https://youtu.be/rKcraBqMqhM)
 
 ## Participantes
 
